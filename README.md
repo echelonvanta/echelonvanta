@@ -50,9 +50,7 @@
 </h1>
 </div>
 <hr>
-<picture> <img align="right" src="https://scriptblox.com/images/photo/668f8e5d87edd5c0ab0d3455-1738420369340.jpeg" width = 300px></picture> <div style="display: flex; align-items: flex-start;">
-    <div style="flex: 1;" align="left">
-        <ul style="list-style-type: none; padding: 0;">
+
             <li>✔ Call me: Echelon 😊</li>
             <li>✔ Currently learning: Programming languages, Web technologies, Backend & Frontend Development 🥰</li> <li>✔ Open to collaboration on: Open Source projects</li>
             <li>✔ Feel free to ask me anything; I'll try to respond as soon as I can 😉</li>
