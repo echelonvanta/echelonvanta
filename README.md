@@ -51,11 +51,12 @@
 </div>
 <hr>
 
-            <li>✔ Call me: Echelon 😊</li>
-            <li>✔ Currently learning: Programming languages, Web technologies, Backend & Frontend Development 🥰</li> <li>✔ Open to collaboration on: Open Source projects</li>
-            <li>✔ Feel free to ask me anything; I'll try to respond as soon as I can 😉</li>
-            <li>✔ Hobbies: Coding, exploring new technologies, problem-solving</li> </ul>
-    </div>
+            ✔ Call me: Echelon 😊</li>
+            ✔ Currently learning: Programming languages, Web technologies, Backend & Frontend Development 🥰 
+	    ✔ Open to collaboration on: Open Source projects
+            ✔ Feel free to ask me anything; I'll try to respond as soon as I can 😉
+            ✔ Hobbies: Coding, exploring new technologies, problem-solving
+    
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
