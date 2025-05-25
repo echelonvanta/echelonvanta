@@ -5,7 +5,7 @@
   <h2>
     <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24" alt="Earth gif">
     Explore my work by visiting my 
-    <a href="https://harshanalf.netlify.app/" target="_blank">3D portfolio</a>
+    <a href="https://echelon.ct.ws" target="_blank">My Sites</a>
   </h2>
 </div>
 
@@ -42,8 +42,7 @@
 
 <p align="center">
   <em>
-    Hello, I am Harshana Fernando, a <b>third year</b> undergraduate from the <a href="https://uom.lk/"> <b>University Of Moratuwa</b>, Sri Lanka ("Wisdom is all wealth")</a>.<br>
-    I am a <b>passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Software Engineer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp;, <br>
+    Hello, I am Echelon, a <b>third year</b> undergraduate from the <a href="https://uom.lk/"> <b>src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Software Developer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp;, <br>
     who is <b>obsessed</b> with <b>Web Engineering</b> and <b>Combative Coding</b>, always striving to uncover hidden patterns in data and solve challenging problems.
 </em>
 <!--horizontal divider(gradiant)-->
