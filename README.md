@@ -138,38 +138,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">
 
-## 3D Töhfə Qrafiki (Contrib)
-<p><em>3D Töhfə qrafikini aktivləşdirmək üçün <a href="https://github.com/yoshi389111/github-profile-3d-contrib" target="_blank">bu repository</a>-ə nəzər yetirə bilərsiniz.</em></p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🐍 Töhfələrimi Yeyən İlan
-<div align="center">
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/echelonvanta/echelonvanta/output/github-contribution-grid-snake.svg" />
-  <br/>
-</div>
-</div>
-<hr>
-<div align=center>
-
-</p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align=center>
-        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
-        <p>Yüklənir...</p>
- </div>
-<hr>
-<div align=center>
-<div align="center">
-  <img src="https://github.com/UchihaIthachi/UchihaIthachi/blob/main/img/griffith-berserk-sacrifice.gif" />
-</div>
-<div align="center">
-  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" />
-  <b><i>"Həyatda məqsədin varsa, o səni diri saxlayar." - Echelon</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
-</div>
-</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
