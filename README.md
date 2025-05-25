@@ -1,3 +1,10 @@
+## Discord
+
+[![Discord](https://img.shields.io/badge/Discord-echelonw-5865F2?logo=discord&logoColor=white)](https://discord.com/users/1111276756842856578)
+
+
+
+
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%" alt="Neon Line" >
 
 <div align="center">
