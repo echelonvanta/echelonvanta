@@ -1,4 +1,4 @@
-<a href="https://discord.com/users/1111276756842856578"><img src="https://lanyard.cnrad.dev/api/1111276756842856578" /></a>
+[![Discord Presence](https://lanyard.cnrad.dev/api/1111276756842856578?idleMessage=My%20Discord%20profile&theme=dark&showDisplayName=true&bg=)](https://discord.com/users/1111276756842856578)
 
 
 
