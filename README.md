@@ -108,9 +108,7 @@
   
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=echelonvanta&show_icons=true&include_all_commits=true&theme=blue-white&count_private=true"
-    alt="echelonvanta GitHub Stats">
+
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -173,6 +171,6 @@
 
 <hr>
 
-Last edited on: May 25, 2025 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+Last edited on: November 15, 2025 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
