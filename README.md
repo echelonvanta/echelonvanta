@@ -8,7 +8,7 @@
   <h2>
     <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24" alt="Earth gif">
     Explore my work by visiting my
-    <a href="https://echelon.ct.ws" target="_blank">My Sites</a>
+    <a href="https://echelon.rf.gd" target="_blank">My Sites</a>
   </h2>
 </div>
 
