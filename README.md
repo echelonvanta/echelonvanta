@@ -23,7 +23,7 @@
 
  <p align="center">
   <img src="https://komarev.com/ghpvc/?username=echelonvanta&color=brightgreen" alt="watching_count" />
-  <img src="https://img.shields.io/badge/Age-17-blue" />
+  <img src="https://img.shields.io/badge/Age-18-blue" />
   <img src="https://img.shields.io/badge/Focus-Development-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-Azerbaijan-success" />
   <img src="https://img.shields.io/badge/Languages-Azerbaijani%2C%20English-brightgreen" /> </p>
